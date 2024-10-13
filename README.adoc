@@ -1,3 +1,4 @@
 = README
+:toc: auto
 
-for serving pub pages
+for serving public pages
