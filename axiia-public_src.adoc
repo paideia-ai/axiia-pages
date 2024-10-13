@@ -1,0 +1,7 @@
+= Axiia 评估人类驾驭AI的能力 
+:author: Yihan Zhou
+:toclevels: 3
+:toc: left
+:email: yihan@axiia.ai
+
+include::../bp_v2_src.adoc[tags=!private;!header]
