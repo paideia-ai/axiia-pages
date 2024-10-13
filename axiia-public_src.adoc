@@ -4,4 +4,4 @@
 :toc: left
 :email: yihan@axiia.ai
 
-include::../bp_v2_src.adoc[tags=!private;!header]
+include::../private_paideia-bp/bp_v2_src.adoc[tags=!private;!header]
